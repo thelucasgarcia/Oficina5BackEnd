@@ -14,10 +14,10 @@ O atual projeto teve como objetivo criar uma aplicação backend com framework A
 ## Para executar
 Depois de feito download, va ao diretório do projeto, você pode executar o seguinte codigo para baixar a pasta node_modules:
 
-###`yarn start`
+### `yarn start`
 ou
 
-###`npm install`
+### `npm install`
 
 Pode mudar as configurações na Pasta Config.
 
@@ -25,15 +25,15 @@ Pode mudar as configurações na Pasta Config.
 
 Primeiramente instale o framework AdonisJS globalmente.
 
-###`npm i -g @adonisjs/cli`
+### `npm i -g @adonisjs/cli`
 
 Instale as dependencias com 
-###`npm install`.
+### `npm install`.
 ou 
-###`npm install`.
+### `npm install`.
 
 Execute a aplicação no modo de desenvolvimento.
-###`adonis serve --dev`
+### `adonis serve --dev`
 
 O servidor inicializará na url http://localhost:3333.
 
@@ -44,11 +44,11 @@ Crie um bando de dados MySql com o nome oficina5
 
 em seguida execute as migrations
 
-###`adonis migration:run`
+### `adonis migration:run`
 
 Qualquer duvida do adonis execute
 
-###`adonis --help`
+### `adonis --help`
 
 Estarei disponibilizando um txt com o arquivo .env, caso ele não funcione. 
 
