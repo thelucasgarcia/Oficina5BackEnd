@@ -28,7 +28,7 @@ Primeiramente instale o framework AdonisJS globalmente.
 ### `npm i -g @adonisjs/cli`
 
 Instale as dependencias com 
-### `npm install`.
+### `yarn start`.
 ou 
 ### `npm install`.
 
